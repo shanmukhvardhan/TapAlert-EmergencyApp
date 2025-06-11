@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EmergencyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorSecondary">@color/primary</item>
+
+    </style>
+
+    <style name="Theme.EmergencyApp" parent="Base.Theme.EmergencyApp" />
+</resources>
+
