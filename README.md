@@ -42,26 +42,6 @@
 
 ---
 
-## 📸 Screenshots
-
-#### Splash Screen  
-<a href="splash_screen.jpg">Splash Screen</a>
-
-#### Signup Screen  
-<img src="assets/signupscreen.jpg" alt="Signup Screen" width="300"/>
-
-#### Login Screen  
-<img src="assets/loginscreen.jpg" alt="Login Screen" width="300"/>
-
-#### Main Page  
-<img src="assets/main_screen.png" alt="Main Page" width="300"/>
-
-#### Settings Page  
-<img src="assets/settings_screen.png" alt="Settings Page" width="300"/>
-
-
----
-
 
 ## 👨‍💻 Developed By
 
