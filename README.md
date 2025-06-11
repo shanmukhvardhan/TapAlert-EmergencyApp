@@ -45,7 +45,7 @@
 ## 📸 Screenshots
 
 #### Splash Screen  
-<img src="splash_screen.jpg" alt="Splash Screen" width="300"/>
+<a href="splash_screen.jpg">Splash Screen</a>
 
 #### Signup Screen  
 <img src="assets/signup_screen.png" alt="Signup Screen" width="300"/>
