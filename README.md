@@ -48,10 +48,10 @@
 <a href="splash_screen.jpg">Splash Screen</a>
 
 #### Signup Screen  
-<img src="assets/signup_screen.png" alt="Signup Screen" width="300"/>
+<img src="assets/signupscreen.jpg" alt="Signup Screen" width="300"/>
 
 #### Login Screen  
-<img src="assets/login_screen.png" alt="Login Screen" width="300"/>
+<img src="assets/loginscreen.jpg" alt="Login Screen" width="300"/>
 
 #### Main Page  
 <img src="assets/main_screen.png" alt="Main Page" width="300"/>
